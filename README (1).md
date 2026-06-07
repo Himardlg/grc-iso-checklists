@@ -82,16 +82,6 @@ Estándar para implementar un Sistema de Gestión de Continuidad de Negocio (SGC
 
 ---
 
-## 🗂️ Roadmap
-
-- [ ] Añadir checklist **ISO 27701:2019** (Privacidad y RGPD)
-- [ ] Añadir checklist **ENS** (Esquema Nacional de Seguridad)
-- [ ] Añadir checklist **NIS2** (Directiva europea de ciberseguridad)
-- [ ] Script Python para generar informe PDF de resultados
-- [ ] Versión web estática (GitHub Pages) sin necesidad de Excel
-- [ ] Dashboard consolidado multi-norma
-
----
 
 ## 📄 Licencia
 
@@ -101,7 +91,10 @@ Este proyecto está publicado bajo licencia **MIT**. Puedes usarlo, modificarlo 
 
 ## 👤 Autor
 
-Herramienta desarrollada para uso profesional en consultoría GRC y como recurso de portfolio en ciberseguridad y gobernanza de IA.
+Himar de León González Cybersecurity Junior · GRC & Compliance
+
+🔗 LinkedIn
+🎯 HackTheBox: Pelu0x
 
 Si te resulta útil, dale una ⭐ al repositorio.
 
