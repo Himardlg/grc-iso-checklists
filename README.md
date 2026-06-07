@@ -90,16 +90,6 @@ Estándar para implementar un Sistema de Gestión de Continuidad de Negocio (SGC
 
 ---
 
-## 🗂️ Roadmap
-
-- [ ] Checklist **ISO 27701:2019** — Privacidad y RGPD
-- [ ] Checklist **ENS** — Esquema Nacional de Seguridad
-- [ ] Checklist **NIS2** — Directiva europea de ciberseguridad
-- [ ] Script Python para generar informe PDF de resultados
-- [ ] Versión web estática (GitHub Pages)
-- [ ] Dashboard consolidado multi-norma
-
----
 
 ## 📄 Licencia
 
