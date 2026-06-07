@@ -93,7 +93,7 @@ Este proyecto está publicado bajo licencia **MIT**. Puedes usarlo, modificarlo 
 
 Himar de León González Cybersecurity Junior · GRC & Compliance
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/himar-de-leon-gonzalez)
 🎯 HackTheBox: Pelu0x
 
 Si te resulta útil, dale una ⭐ al repositorio.
